@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+button{
+    color: white;
+    font-size: 50px;
+    background-color: #24866e;
+    cursor: pointer;
+  }
